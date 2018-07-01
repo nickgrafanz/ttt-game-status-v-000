@@ -14,6 +14,6 @@ WIN_COMBINATIONS = [
   [6,4,2]
 ]
 
-def "#won?"(board)
-  
+def won? (board)
+
   
